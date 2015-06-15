@@ -3,7 +3,7 @@ forge "http://forge.puppetlabs.com"
 # Modules from the Puppet Forge
 mod "puppetlabs/stdlib"
 mod "puppetlabs/apt", "2.0.1"
-mod "puppetlabs/concat", "2.0.1"
+imod "puppetlabs/concat"
 mod "jfryman/nginx", "0.2.6"
 
 # Modules from Github using various references
