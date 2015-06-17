@@ -9,6 +9,7 @@ mod "darin/zypprepo"
 mod "nanliu/staging"
 mod "jfryman/nginx"
 mod "rtyler/jenkins"
+mod "ripienaar/module"
 
 # Modules from Github using various references
 mod "roles",
