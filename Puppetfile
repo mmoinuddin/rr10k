@@ -14,11 +14,11 @@ mod "ripienaar/module_data"
 # Modules from Github using various references
 mod "role",
   :git => "git://github.com/faryazmd/role.git",
-  :ref => '781faad10edf50c031008a94d86aa36323388e6d'
+  :ref => '5a248002f9234d3d95c9b4e9e4c88569e65dfb45'
 
 mod "profiles",
   :git => "git://github.com/faryazmd/profiles.git",
-  :ref => 'd929356278c2756eedd6aefa3f00ec9c5e34f8f7'
+  :ref => 'a081fef6047fbd9a731cf67d443645265a4d0b6a'
 
 mod "Data",
   :git => "git://github.com/mmoinuddin/Data.git",
