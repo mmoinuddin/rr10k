@@ -10,6 +10,7 @@ mod "nanliu/staging"
 mod "jfryman/nginx"
 mod "rtyler/jenkins"
 mod "ripienaar/module_data"
+mod "puppetlabs/concat"
 
 # Modules from Github using various references
 mod "role",
