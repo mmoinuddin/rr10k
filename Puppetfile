@@ -6,7 +6,7 @@ mod "puppetlabs/apt", "2.0.1"
 mod "puppetlabs/concat"
 mod "jfryman/nginx", "0.2.6"
 
-# Modules from Github using various references
+### Modules from Github using various references
 mod "roles",
   :git => "git://github.com/faryazmd/role.git",
   :ref => '781faad10edf50c031008a94d86aa36323388e6d'
